@@ -1,3 +1,5 @@
+#Dictionary from: https://github.com/AaditT/braille
+
 charToArray = {
     " " : [[0,0],[0,0],[0,0]],
     "a" : [
